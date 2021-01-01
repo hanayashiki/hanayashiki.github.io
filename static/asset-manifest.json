@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/static/css/main.9eabbf45.chunk.css",
+    "main.js": "/static/static/js/main.f327d270.chunk.js",
+    "main.js.map": "/static/static/js/main.f327d270.chunk.js.map",
+    "runtime-main.js": "/static/static/js/runtime-main.7d8d791b.js",
+    "runtime-main.js.map": "/static/static/js/runtime-main.7d8d791b.js.map",
+    "static/js/2.799ce5c8.chunk.js": "/static/static/js/2.799ce5c8.chunk.js",
+    "static/js/2.799ce5c8.chunk.js.map": "/static/static/js/2.799ce5c8.chunk.js.map",
+    "static/js/3.a5ae0206.chunk.js": "/static/static/js/3.a5ae0206.chunk.js",
+    "static/js/3.a5ae0206.chunk.js.map": "/static/static/js/3.a5ae0206.chunk.js.map",
+    "index.html": "/static/index.html",
+    "static/css/main.9eabbf45.chunk.css.map": "/static/static/css/main.9eabbf45.chunk.css.map",
+    "static/js/2.799ce5c8.chunk.js.LICENSE.txt": "/static/static/js/2.799ce5c8.chunk.js.LICENSE.txt",
+    "static/media/switzerland.51c345ba.jpg": "/static/static/media/switzerland.51c345ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d8d791b.js",
+    "static/js/2.799ce5c8.chunk.js",
+    "static/css/main.9eabbf45.chunk.css",
+    "static/js/main.f327d270.chunk.js"
+  ]
+}
